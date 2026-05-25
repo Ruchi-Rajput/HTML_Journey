@@ -29,11 +29,22 @@ print(string.octdigits)
 print(string.punctuation)
 print(string.printable)
 
-a = 3
-b = 5.9
-print(a+b)
+# a = 3
+# b = 5.9
+# print(a+b)
 
-a = "9"
-c= int(a)
-b = 9
-print(a+b)
+# a = "9"
+# c= int(a)
+# b = 9
+# print(a+b)
+
+print("Welcome to Python")
+print("My name is Ruchi")
+print("I will become a Python developer")
+
+print("\n======= MY INTORDUCTION =======")
+print("Name: Ruchi")
+print("City: Bhopal")
+print("Goal: Data Analyst")
+print("Skill:Python")
+print("=================================")
