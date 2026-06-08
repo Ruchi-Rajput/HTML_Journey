@@ -54,3 +54,9 @@ import keyword
 print("Python Keywords are:\n")
 for i in keyword.kwlist:
  print(i)
+
+
+import string
+print("Punctuation Symbols are:\n")
+for i in string.punctuation:
+ print(i)
