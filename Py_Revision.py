@@ -48,3 +48,9 @@ print("City: Bhopal")
 print("Goal: Data Analyst")
 print("Skill:Python")
 print("=================================")
+
+
+import keyword
+print("Python Keywords are:\n")
+for i in keyword.kwlist:
+ print(i)
